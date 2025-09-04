@@ -7,7 +7,7 @@
 
 <div >
     <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=HenriqueHBM&show_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github" alt="HenriqueHBM" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=HenriqueHBM&show_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas" alt="HenriqueHBM" />
     </div> <br />
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHBM&layout=compact&border_radius=20&locale=pt-br&theme=dracula" alt="HenriqueHBM" />
