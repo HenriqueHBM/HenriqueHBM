@@ -1,13 +1,11 @@
-## Hi there 👋
-## Sou Henrique B. M.
-## Apenas um pequeno desenvolvedor do Brasil
+## Henrique B. M.
+## Desenvolvedor do Brasil
 
 
 📝 Formado em Técnico de Informática Integrado ao Ensino Médio
-<br >📄 Cursando Bacharelado em Engenharia de Software e tecnologo em ADS na UniÁmerica
+<br /> 📄 Cursando Bacharelado em Engenharia de Software e tecnologo em ADS na UniÁmerica
 
-
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column;" display='flex' flex-direction='column'>
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=HenriqueHBM&show_icons=true&locale=pt-br&theme=dracula&hide=contribs,issues&show=prs_merged&border_radius=20&rank_icon=github&custom_title=Estatísticas do GitHub" alt="HenriqueHBM" />
     </div>
@@ -15,8 +13,8 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHBM&layout=compact&border_radius=20&locale=pt-br&theme=dracula" alt="HenriqueHBM" />
     </div>
 </div>
-
 <br>
+
 ## Algumas Linguagens e Ferramentas
 <p align='left'>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
