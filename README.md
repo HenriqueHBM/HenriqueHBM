@@ -17,7 +17,7 @@
 </div>
 
 <br>
-##Algumas Linguagens e Ferramentas
+## Algumas Linguagens e Ferramentas
 <p align='left'>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
