@@ -49,7 +49,10 @@
     </a>  
     <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
         <img src="icons/vscode.png" alt="VSCode" width="40" height="38" /> 
-    </a> 
+    </a>
+     <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> 
+        <img src="icons/mysql.svg" alt="MYSQL" width="40" height="38" /> 
+    </a>
 </p>
 
 
